@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Mobilonline",
+    "url": "https://www.mobilonline.sk",
+    "slug": "mobilonline",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 1819
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Lab Online",
+    "url": "https://lab.online",
+    "slug": "lab-online",
     "status": "up",
     "uptime": "100.00",
-    "time": 133
+    "time": 1411
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "FreshBox",
+    "url": "https://www.freshbox.sk",
+    "slug": "fresh-box",
     "status": "up",
     "uptime": "100.00",
-    "time": 341
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "99.28",
-    "time": 0
+    "time": 1383
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 49
+    "time": 0
   }
 ]
