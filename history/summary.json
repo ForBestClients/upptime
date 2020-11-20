@@ -1,34 +1,42 @@
 [
   {
-    "name": "Mobilonline",
+    "name": "mobilonline.sk",
     "url": "https://www.mobilonline.sk",
-    "slug": "mobilonline",
+    "slug": "mobilonline-sk",
     "status": "up",
     "uptime": "100.00",
-    "time": 1819
+    "time": 1517
   },
   {
-    "name": "Lab Online",
+    "name": "lab.online",
     "url": "https://lab.online",
     "slug": "lab-online",
     "status": "up",
     "uptime": "100.00",
-    "time": 1411
+    "time": 1423
   },
   {
-    "name": "FreshBox",
+    "name": "freshbox.sk",
     "url": "https://www.freshbox.sk",
-    "slug": "fresh-box",
+    "slug": "freshbox-sk",
     "status": "up",
     "uptime": "100.00",
-    "time": 1383
+    "time": 951
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
+    "name": "murat.sk",
+    "url": "https://www.murat.sk",
+    "slug": "murat-sk",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 1734
+  },
+  {
+    "name": "bezeckepotreby.sk",
+    "url": "https://www.bezeckepotreby.sk",
+    "slug": "bezeckepotreby-sk",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1605
   }
 ]
