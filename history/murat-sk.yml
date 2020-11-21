@@ -1,7 +1,7 @@
 - url: https://www.murat.sk
-- status: down
-- code: 502
-- responseTime: 2567
-- lastUpdated: 2020-11-21T07:32:06.223Z
+- status: up
+- code: 200
+- responseTime: 1890
+- lastUpdated: 2020-11-21T07:37:12.893Z
 - startTime: 2020-11-20T23:21:31.019Z
 - generator: Upptime <https://github.com/upptime/upptime>
