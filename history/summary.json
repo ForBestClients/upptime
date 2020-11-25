@@ -5,7 +5,7 @@
     "slug": "mobilonline-sk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1563
+    "time": 1544
   },
   {
     "name": "lab.online",
@@ -13,7 +13,7 @@
     "slug": "lab-online",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1280
+    "time": 1277
   },
   {
     "name": "freshbox.sk",
@@ -21,15 +21,15 @@
     "slug": "freshbox-sk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1023
+    "time": 1010
   },
   {
     "name": "murat.sk",
     "url": "https://www.murat.sk",
     "slug": "murat-sk",
     "status": "up",
-    "uptime": "99.39%",
-    "time": 3852
+    "uptime": "99.54%",
+    "time": 3747
   },
   {
     "name": "bezeckepotreby.sk",
@@ -37,6 +37,6 @@
     "slug": "bezeckepotreby-sk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1067
+    "time": 1026
   }
 ]
