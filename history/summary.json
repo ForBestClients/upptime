@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1543,
-    "timeDay": 1548,
-    "timeWeek": 1547,
-    "timeMonth": 1543,
-    "timeYear": 1543
+    "time": 1553,
+    "timeDay": 1716,
+    "timeWeek": 1581,
+    "timeMonth": 1553,
+    "timeYear": 1553
   },
   {
     "name": "lab.online",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1249,
-    "timeDay": 1133,
-    "timeWeek": 1227,
-    "timeMonth": 1249,
-    "timeYear": 1249
+    "time": 1243,
+    "timeDay": 1136,
+    "timeWeek": 1222,
+    "timeMonth": 1243,
+    "timeYear": 1243
   },
   {
     "name": "freshbox.sk",
@@ -41,27 +41,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 1074,
-    "timeWeek": 1050,
-    "timeMonth": 1034,
-    "timeYear": 1034
+    "time": 1031,
+    "timeDay": 970,
+    "timeWeek": 1037,
+    "timeMonth": 1031,
+    "timeYear": 1031
   },
   {
     "name": "murat.sk",
     "url": "https://www.murat.sk",
     "slug": "murat-sk",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 3718,
-    "timeDay": 1452,
-    "timeWeek": 4093,
-    "timeMonth": 3718,
-    "timeYear": 3718
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 3653,
+    "timeDay": 1697,
+    "timeWeek": 4024,
+    "timeMonth": 3653,
+    "timeYear": 3653
   },
   {
     "name": "bezeckepotreby.sk",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1028,
-    "timeDay": 834,
-    "timeWeek": 944,
-    "timeMonth": 1028,
-    "timeYear": 1028
+    "time": 1023,
+    "timeDay": 939,
+    "timeWeek": 941,
+    "timeMonth": 1023,
+    "timeYear": 1023
   }
 ]
