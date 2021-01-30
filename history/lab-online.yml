@@ -1,7 +1,7 @@
 url: https://lab.online
-status: up
-code: 200
-responseTime: 896
-lastUpdated: 2021-01-29T23:27:12.748Z
+status: down
+code: 500
+responseTime: 20586
+lastUpdated: 2021-01-30T02:09:09.363Z
 startTime: Tue Jan 05 2021 18:17:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
